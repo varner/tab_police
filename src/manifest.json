@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Tab Police",
+	"version": "1.0",
+	"description": "SHUT DOWN YOUR EXCESSIVE TAB PARTYING.",
+	"homepage_url": "http://www.ffferal.net",
+	"icons": {"128": "icon128.png"},
+	"permissions": [
+	  "tabs"
+	],
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": true
+	}
+}
