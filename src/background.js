@@ -29,13 +29,3 @@ chrome.tabs.onRemoved.addListener( function(tab) {
 		probability--;
 	}
 });
-
-/*function removeWindow(var id) {
-	try {
-    	chrome.windows.remove(windowList[i].id, function() {
-      		appendToLog('window: '+windowList[i].id+' removed.');
-    	});
-  	} catch (e) {
-    	alert(e);
-  	}
-};*/
