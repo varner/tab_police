@@ -5,5 +5,5 @@ TAB POLICE
 
 READ MORE [HERE](http://ffferal.net/2014/03/21/tab-police/)
 
-GET IT IN THE [CHROME STORE]()
+GET IT IN THE [CHROME STORE](https://chrome.google.com/webstore/detail/tab-police/goglbjinnkfcnpfedijjekgcdopipoaf?hl=en)
 
